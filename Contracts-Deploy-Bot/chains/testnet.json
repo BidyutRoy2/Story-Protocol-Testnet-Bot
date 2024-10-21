@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Story Iliad Network",
+    "rpcUrl": "https://testnet.storyrpc.io",
+    "chainId": "1513",
+    "symbol": "IP",
+    "explorer": "https://testnet.storyscan.xyz"
+  }
+]
