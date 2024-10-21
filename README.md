@@ -7,7 +7,7 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Unichain-Testnet-Bot.git
+git clone https://github.com/BidyutRoy2/Story-Protocol-Testnet-Bot.git
 ```
 
 ```
