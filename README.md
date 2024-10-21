@@ -1,5 +1,6 @@
 # Story Protocol Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 ## 1. Daily Transaction Bot
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
@@ -37,7 +38,7 @@ Example : `PRIVATE_KEYS=["234567890abcdef1234567890abcdef1234567890abcdef1234567
 npm start
 ```
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 ## 2. Contracts Deploy Bot
 
 ## Steps
