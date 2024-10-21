@@ -1,6 +1,8 @@
-# Story Protocol Testnet Daily Transaction Bot
+# Story Protocol Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
-### 1 .Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
+## 1. Daily Transaction Bot
+
+### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
 ## Steps
 
@@ -10,82 +12,59 @@
 git clone https://github.com/BidyutRoy2/Story-Protocol-Testnet-Bot.git
 ```
 
+### 3. Go To Bot Directory
 ```
-cd Unichain-Testnet-Bot
+cd Story-Protocol-Testnet-Bot
+cd Transaction-Bot
 ```
 
-### 3. Instal Dependency
+### 4. Instal Dependency
 
 ```bash
 npm install
 ```
 
-### 4. configurate .env File
-
-Edit file named .env in the project root directory & Save Your Private Key
-
-```bash
- .env
-```
+### 5. Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+Example : `PRIVATE_KEYS=["234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"]`
 
 <p align="center">
 <img src='create-env.jpg' width='900'>
 </p>
 
-
-```bash
-PRIVATE_KEYS=["Enter-Wallet-Private-Key"]
-```
-
-### 5. Run script & Make Daily Transaction
+### 6. Run script & Make Daily Transaction
 
 ```bash
 npm start
 ```
 
 
+## 2. Contracts Deploy Bot
 
+## Steps
 
-# EVM Chain Contracts Deploy Bot
+### 1. Getting Started Add New Terminal (CTRL+SHIFT+C)
 
-A tool for automatically deploying Ethereum smart contracts to various networks.
+### 2. Go To Bot Directory
+```
+cd Story-Protocol-Testnet-Bot
+cd Contracts-Deploy-Bot
+```
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/BidyutRoy2/EVM-Auto-Deploy.git
-   ```
-
-2. Install the dependencies:
+### 3. Install the dependencies:
 
    ```bash
    npm install
    ```
+### 4. Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef`
 
-3. Edit .env file in the root directory with the following variables:
- Example - PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
-
-5. Run the script:
+### 5. Run the script & Deploy Contracts
 
    ```bash
    npm start
    ```
 
 ## Follow the prompts to select the network, enter the token name, symbol, and supply, and deploy the contract.
-
-
-Run With WSL/VPS/Github CodeeSpace
-
-```
-wget -q -O Install.sh https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/Install.sh && sudo chmod +x Install.sh && ./Install.sh
-```
-```
-source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/EVM-Auto-Deploy/refs/heads/main/setup.sh)
-```
-
-
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
